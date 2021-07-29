@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Project 2 for the Pirple.com
+
+Hello, this is my solution of the Project 2 on the Pirple.com. I hope you will like it.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
